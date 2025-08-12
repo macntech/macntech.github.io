@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmacntech=self.webpackChunkmacntech||[]).push([[293],{9639:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var l=n(6540);const a=()=>l.createElement("title",null,"Home Page");t.default=()=>l.createElement("main",null,l.createElement("h1",null,"Welcome to my Gatsby site!"),l.createElement("p",null,"I'm making this by following the Gatsby Tutorial."))}}]);
+//# sourceMappingURL=component---src-pages-index-js-c152f10a0bbde5a41f97.js.map
